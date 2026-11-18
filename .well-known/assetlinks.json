@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.novamine.app",
+      "sha256_cert_fingerprints": [
+        "60:38:87:E2:61:89:A2:9E:99:37:51:EE:03:2F:A3:4F:36:D2:FD:DC:5A:48:10:AF:30:12:E1:00:89:C8:33:3B"
+      ]
+    }
+  }
+]
